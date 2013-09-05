@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<item>
+		<content>
+			<name>
+				<![CDATA[FOOD PRODUCTS AND PROCESSING SYSTEMS ]]>
+			</name>
+		</content>
+		<item>
+			<content>
+				<name>
+					<![CDATA[AGPA01.01 Design and implement procedures and plans that demonstrate application of food processing principles to manage quality control in the food product and processing industry.]]>
+				</name>
+			</content>
+			<item>
+				<content>
+					<name>
+						<![CDATA[AGPA01.01.01	Develop management plans to maintain equipment and facilities.]]>
+					</name>
+				</content>
+				<item>
+					<content>
+						<name>
+							<![CDATA[Develop and maintain a Standard Sanitation Operating Procedure (SSOP).]]>
+						</name>
+					</content>
+				</item>
+				<item>
+					<content>
+						<name>
+							<![CDATA[Explain and demonstrate Good Manufacturing Practices (GMP), including employee safety.]]>
+						</name>
+					</content>
+				</item>				
+			</item>
+		</item>
+		<item>
+			<content><name><![CDATA[Child node 2]]></name></content>
+		</item>
+		<item>
+			<content><name><![CDATA[Some other child node]]></name></content>
+		</item>
+	</item>
+	<item>
+		<content><name ><![CDATA[Root node 2]]></name></content>
+	</item>
+</root>
